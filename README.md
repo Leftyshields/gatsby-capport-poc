@@ -1,5 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-Works on Node v12.21.0
+Works on Node v12.21.0 and NPM 6.14.11
+
 
 
 <p align="center">
